@@ -1,0 +1,24 @@
+ANANYA RAO
+Data Scientist | Bengaluru
+
+SUMMARY
+Data scientist with 6 years of experience building machine learning models for e-commerce and fintech. Comfortable owning a problem from data exploration to production deployment.
+
+EXPERIENCE
+Data Scientist, ShopKart Analytics (Jun 2022 - Present)
+- Built a churn prediction model with gradient boosting in scikit-learn that reduced customer churn by 8%
+- Designed and analysed A/B tests for checkout changes using hypothesis testing and regression analysis
+- Wrote complex SQL queries on PostgreSQL to build feature tables for 20M users
+- Created Tableau dashboards to share model insights with marketing stakeholders
+- Deployed models as batch jobs on AWS with MLflow tracking
+
+Junior Data Scientist, FinEdge (Jul 2020 - May 2022)
+- Developed demand forecasting models in Python using Pandas, NumPy and statsmodels
+- Performed feature engineering on transaction data and built credit risk classifiers
+- Built a text classification model with BERT to route customer complaints (NLP)
+
+SKILLS
+Python, Pandas, NumPy, scikit-learn, PyTorch, SQL, PostgreSQL, Statistics, Tableau, Matplotlib, Seaborn, AWS, Spark, Git
+
+EDUCATION
+M.Sc. Statistics, University of Hyderabad, 2018 - 2020

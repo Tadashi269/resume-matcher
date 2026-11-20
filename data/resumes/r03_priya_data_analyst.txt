@@ -1,0 +1,22 @@
+PRIYA SHARMA
+Data Analyst | Gurugram
+
+SUMMARY
+Detail-oriented data analyst with 5 years of experience turning raw business data into reports and dashboards that drive decisions.
+
+EXPERIENCE
+Data Analyst, RetailOne (Aug 2021 - Present)
+- Wrote SQL queries in MySQL to pull weekly sales and inventory reports
+- Built interactive Power BI and Tableau dashboards used by regional managers
+- Automated monthly Excel reports with pivot tables and VLOOKUP, saving 10 hours a month
+- Ran basic statistical analysis to understand drivers of store performance
+- Presented findings to business stakeholders and leadership
+
+Business Analyst Intern, InfoServe (Jan 2021 - Jun 2021)
+- Cleaned survey data in Excel and created charts for client presentations
+
+SKILLS
+SQL, MySQL, Excel, Power BI, Tableau, basic Python (Pandas), Statistics, Communication
+
+EDUCATION
+B.Com (Hons), Delhi University, 2017 - 2020

@@ -1,0 +1,23 @@
+SNEHA IYER
+Python Developer | Hyderabad
+
+SUMMARY
+Software developer with 5 years of experience writing server-side applications and data APIs in Python.
+
+EXPERIENCE
+Software Developer, CloudNest (Jan 2023 - Present)
+- Develop backend services with Django REST Framework and FastAPI that serve a SaaS analytics product
+- Designed PostgreSQL schemas and wrote complex SQL for reporting endpoints
+- Built ETL data pipelines with Airflow and Pandas to load client data
+- Packaged applications in Docker containers and set up GitHub Actions for continuous integration
+- Wrote pytest unit tests for all new endpoints
+
+Associate Developer, TechMints (Jun 2021 - Dec 2022)
+- Built internal tools in Flask with MySQL backend
+- Wrote Bash scripts to automate deployments on Linux servers
+
+SKILLS
+Python, Django, FastAPI, Flask, PostgreSQL, MySQL, Pandas, Docker, Git, Linux, Airflow, REST APIs
+
+EDUCATION
+B.Tech Information Technology, JNTU Hyderabad, 2017 - 2021

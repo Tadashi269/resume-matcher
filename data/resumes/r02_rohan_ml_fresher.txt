@@ -1,0 +1,25 @@
+ROHAN MEHTA
+B.Tech Computer Science (AI & ML) | Pune
+
+OBJECTIVE
+Final-year student passionate about artificial intelligence, looking for an entry-level role where I can apply deep learning and computer vision skills.
+
+PROJECTS
+Plant Disease Detection
+- Trained a CNN in TensorFlow/Keras on 50,000 leaf images, reaching 94% accuracy
+- Used data augmentation and transfer learning with ResNet50
+
+Movie Review Sentiment Analysis
+- Fine-tuned a Hugging Face transformer model to classify IMDB reviews
+- Compared it with a logistic regression baseline built in scikit-learn
+
+INTERNSHIP
+Machine Learning Intern, VisionAI Labs (May 2025 - Jul 2025)
+- Built an object detection pipeline with OpenCV and PyTorch for counting vehicles in traffic video
+- Wrote Python scripts to clean and label image datasets
+
+SKILLS
+Python, TensorFlow, Keras, PyTorch, OpenCV, NumPy, Matplotlib, Git, basic SQL
+
+EDUCATION
+B.Tech CSE (AI & ML), MIT World Peace University, 2022 - 2026

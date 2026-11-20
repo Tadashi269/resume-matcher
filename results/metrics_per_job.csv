@@ -1,0 +1,17 @@
+job,method,NDCG@5,MRR,Top-1 Acc,Spearman
+backend_developer,TF-IDF,0.93,1.0,1.0,0.742
+backend_developer,Skill match,0.969,1.0,1.0,0.822
+backend_developer,Semantic (LSA),0.93,1.0,1.0,0.701
+backend_developer,Hybrid,0.93,1.0,1.0,0.742
+data_scientist,TF-IDF,1.0,1.0,1.0,0.838
+data_scientist,Skill match,1.0,1.0,1.0,0.853
+data_scientist,Semantic (LSA),1.0,1.0,1.0,0.838
+data_scientist,Hybrid,1.0,1.0,1.0,0.838
+frontend_developer,TF-IDF,1.0,1.0,1.0,0.762
+frontend_developer,Skill match,0.988,1.0,1.0,0.712
+frontend_developer,Semantic (LSA),0.988,1.0,1.0,0.67
+frontend_developer,Hybrid,0.988,1.0,1.0,0.694
+security_analyst,TF-IDF,1.0,1.0,1.0,0.762
+security_analyst,Skill match,1.0,1.0,1.0,0.796
+security_analyst,Semantic (LSA),1.0,1.0,1.0,0.762
+security_analyst,Hybrid,1.0,1.0,1.0,0.762

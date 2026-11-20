@@ -1,0 +1,5 @@
+method,NDCG@5,MRR,Top-1 Acc,Spearman
+TF-IDF,0.982,1.0,1.0,0.776
+Skill match,0.989,1.0,1.0,0.796
+Semantic (LSA),0.979,1.0,1.0,0.743
+Hybrid,0.979,1.0,1.0,0.759

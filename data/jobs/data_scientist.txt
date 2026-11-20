@@ -1,0 +1,23 @@
+Data Scientist - Analytics & ML Team
+
+About the role:
+We are looking for a Data Scientist to build predictive models that help our product and marketing teams make better decisions. You will own projects end to end, from framing the business problem to deploying models.
+
+Responsibilities:
+- Build, evaluate and deploy machine learning models for churn prediction, recommendation and demand forecasting
+- Clean, explore and analyze large datasets using Python, Pandas and SQL
+- Design A/B tests and apply statistics to measure the impact of product changes
+- Perform feature engineering and communicate insights to non-technical stakeholders through dashboards
+- Work with data engineers to put models into production
+
+Requirements:
+- 2+ years of experience in a data science or machine learning role
+- Strong Python skills with Pandas, NumPy and scikit-learn
+- Solid understanding of statistics, regression and classification algorithms
+- Experience writing complex SQL queries
+- Experience with data visualization (Matplotlib, Seaborn or Tableau)
+
+Nice to have:
+- Experience with deep learning frameworks such as PyTorch or TensorFlow
+- NLP experience, e.g. text classification or working with transformers
+- Familiarity with Spark and cloud platforms like AWS

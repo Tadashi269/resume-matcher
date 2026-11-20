@@ -1,0 +1,27 @@
+FARHAN QURESHI
+SOC Analyst (L2) | Delhi NCR
+
+SUMMARY
+Security analyst with 4 years of experience in a 24x7 Security Operations Centre, focused on threat detection and incident response.
+
+EXPERIENCE
+SOC Analyst L2, SecureLayer (Jan 2024 - Present)
+- Monitor and triage alerts in Splunk SIEM and write correlation searches to reduce false positives by 30%
+- Lead incident response for phishing and ransomware cases, from containment to root cause analysis
+- Perform threat hunting mapped to MITRE ATT&CK techniques and enrich IOCs with threat intelligence feeds
+- Run weekly vulnerability scans with Nessus and track patching with IT teams
+- Analyse suspicious network traffic with Wireshark and tcpdump
+
+SOC Analyst L1, NetGuard Services (Sep 2022 - Dec 2023)
+- Monitored IBM QRadar alerts and escalated incidents according to playbooks
+- Reviewed firewall and IDS/IPS logs and updated block lists
+- Wrote Python and Bash scripts to automate log collection on Linux
+
+CERTIFICATIONS
+CompTIA Security+, Splunk Core Certified User
+
+SKILLS
+Splunk, QRadar, Incident Response, Threat Hunting, Wireshark, Nessus, Firewalls, TCP/IP, DNS, Linux, Python, Bash
+
+EDUCATION
+B.Tech Computer Science, Jamia Millia Islamia, 2018 - 2022

@@ -1,0 +1,23 @@
+ISHA KAPOOR
+UI/UX Designer | Mumbai
+
+SUMMARY
+Product designer with 5 years of experience designing intuitive mobile and web experiences, from user research to high-fidelity prototypes.
+
+EXPERIENCE
+Product Designer, Wanderly (Mar 2023 - Present)
+- Lead user research interviews and usability tests for a travel booking app
+- Create wireframes, user flows and interactive prototypes in Figma
+- Built and maintain the company design system with 120 components
+- Collaborate with frontend developers during handoff and review implemented screens
+
+UI Designer, Studio Nine (Jun 2021 - Feb 2023)
+- Designed websites and landing pages for 15 clients
+- Created marketing graphics in Adobe Illustrator and Photoshop
+- Wrote basic HTML and CSS to build simple prototype pages
+
+SKILLS
+Figma, UX design, user research, wireframing, prototyping, design systems, Adobe XD, Photoshop, Illustrator, basic HTML/CSS
+
+EDUCATION
+B.Des Communication Design, NIFT Mumbai, 2017 - 2021

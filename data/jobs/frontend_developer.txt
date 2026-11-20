@@ -1,0 +1,22 @@
+Frontend Developer (React)
+
+About the role:
+We are hiring a Frontend Developer to build fast, accessible and beautiful user interfaces for our e-commerce web app. You will work closely with designers and backend engineers.
+
+Responsibilities:
+- Build reusable UI components with React and TypeScript
+- Manage application state with Redux and integrate with REST APIs
+- Turn Figma designs into pixel-perfect, responsive pages using HTML and CSS
+- Write unit tests with Jest and React Testing Library
+- Optimize web performance and page load times
+
+Requirements:
+- 2+ years of experience in frontend development
+- Strong JavaScript (ES6+) and TypeScript skills
+- Deep knowledge of React, hooks and Redux
+- Solid HTML5, CSS3 and responsive design skills
+- Experience with Git and agile workflows
+
+Nice to have:
+- Experience with Next.js and server-side rendering
+- Basic Node.js knowledge

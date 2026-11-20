@@ -1,0 +1,23 @@
+VIKRAM SINGH
+DevOps Engineer | Noida
+
+SUMMARY
+DevOps engineer with 6 years of experience automating infrastructure and keeping production systems reliable.
+
+EXPERIENCE
+DevOps Engineer, ScaleUp Tech (Apr 2022 - Present)
+- Manage 40+ microservices running on Kubernetes (EKS) in AWS
+- Wrote Terraform modules for infrastructure as code and Ansible playbooks for configuration
+- Built Jenkins and GitHub Actions CI/CD pipelines that deploy Docker images to staging and production
+- Set up Prometheus and Grafana monitoring and on-call alerting
+- Hardened Linux servers and managed security groups and VPN access
+
+Systems Engineer, Wipro (Jun 2020 - Mar 2022)
+- Administered Linux servers and wrote Bash and Python scripts for automation
+- Supported Java Spring Boot applications in production and troubleshot MySQL issues
+
+SKILLS
+AWS, Kubernetes, Docker, Terraform, Ansible, Jenkins, GitHub Actions, Linux, Bash, Python, Prometheus, Grafana, Git
+
+EDUCATION
+B.Tech Electronics, Amity University, 2016 - 2020

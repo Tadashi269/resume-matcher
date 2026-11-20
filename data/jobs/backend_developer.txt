@@ -1,0 +1,23 @@
+Backend Software Engineer (Java)
+
+About the role:
+Join our platform team to design and build the services that power our payments product used by millions of customers. You will write scalable server-side code and own services in production.
+
+Responsibilities:
+- Design, develop and maintain RESTful APIs and microservices using Java and Spring Boot
+- Model data and write efficient queries for relational databases such as MySQL or PostgreSQL
+- Containerize services with Docker and deploy them through CI/CD pipelines
+- Write unit tests and take part in code reviews
+- Monitor production systems and improve performance and reliability
+
+Requirements:
+- 3+ years of professional backend development experience
+- Strong knowledge of Java, Spring Boot and Hibernate/JPA
+- Experience building REST APIs and microservice architectures
+- Good SQL skills and understanding of database design
+- Hands-on experience with Docker and Git
+
+Nice to have:
+- Experience with Kafka or other message queues
+- Knowledge of Kubernetes and AWS
+- Exposure to Redis caching

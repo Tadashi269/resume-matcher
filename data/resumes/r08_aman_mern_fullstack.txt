@@ -1,0 +1,26 @@
+AMAN GUPTA
+Full Stack Developer (MERN) | Delhi
+
+SUMMARY
+Full stack developer with 2 years of experience shipping web apps with MongoDB, Express, React and Node.js.
+
+EXPERIENCE
+Full Stack Developer, StartHub (Aug 2024 - Present)
+- Built a job portal with React frontend and Node.js/Express backend serving REST APIs
+- Designed MongoDB collections and wrote aggregation pipelines
+- Implemented JWT authentication and role-based access control
+- Deployed the app with Docker on an AWS EC2 instance
+
+Web Development Intern, CodeCraft (Jan 2024 - Jul 2024)
+- Built landing pages with HTML, CSS and Bootstrap
+- Wrote JavaScript for form validation and API calls
+
+PROJECTS
+- Real-time chat app using React, Socket.io and Node.js
+- Expense tracker with charts using React and Chart.js
+
+SKILLS
+JavaScript, React, Node.js, Express, MongoDB, HTML, CSS, Bootstrap, Git, Docker, basic AWS
+
+EDUCATION
+BCA, Guru Gobind Singh Indraprastha University, 2020 - 2023

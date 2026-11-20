@@ -1,0 +1,25 @@
+DEEPAK VERMA
+Network Engineer | Jaipur
+
+SUMMARY
+CCNA-certified network engineer with 6 years of experience designing and maintaining enterprise LAN/WAN networks.
+
+EXPERIENCE
+Network Engineer, Tata Communications (May 2022 - Present)
+- Configure and troubleshoot Cisco routers and switches across 30 branch offices
+- Manage Fortinet firewalls, site-to-site VPN tunnels and access control policies
+- Handle routing (OSPF, BGP), VLANs, subnetting, DNS and DHCP
+- Investigate network outages and packet loss using Wireshark
+
+Network Support Engineer, HCL (Jul 2020 - Apr 2022)
+- Monitored network uptime and resolved tickets for connectivity issues
+- Documented network topology and change requests
+
+CERTIFICATIONS
+Cisco CCNA, Fortinet NSE 4
+
+SKILLS
+Cisco, routing, switching, TCP/IP, firewalls, VPN, DNS, DHCP, Wireshark, Linux basics
+
+EDUCATION
+B.Tech Electronics & Communication, RTU Kota, 2016 - 2020

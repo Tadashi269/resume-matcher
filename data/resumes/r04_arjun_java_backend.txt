@@ -1,0 +1,24 @@
+ARJUN NAIR
+Senior Backend Engineer | Chennai
+
+SUMMARY
+Backend engineer with 7 years of experience building high-throughput payment and banking services in Java.
+
+EXPERIENCE
+Senior Software Engineer, PayStream (Mar 2022 - Present)
+- Designed and built RESTful APIs and microservices in Java 17 with Spring Boot, handling 2,000 requests per second
+- Used Hibernate/JPA with PostgreSQL and optimized slow queries, cutting latency by 40%
+- Introduced Kafka for asynchronous event processing between services
+- Containerized services with Docker and deployed to Kubernetes on AWS via Jenkins CI/CD pipelines
+- Added Redis caching for account lookups
+
+Software Engineer, Infosys (Jul 2019 - Feb 2022)
+- Developed Spring MVC web services for a banking client using Oracle database
+- Wrote JUnit unit tests and maintained 80% code coverage
+- Worked in an agile Scrum team using Git and Jira
+
+SKILLS
+Java, Spring Boot, Hibernate, JPA, MySQL, PostgreSQL, Kafka, Redis, Docker, Kubernetes, AWS, Jenkins, Git, JUnit
+
+EDUCATION
+B.E. Computer Engineering, Anna University, 2015 - 2019

@@ -1,0 +1,24 @@
+Cybersecurity Analyst - Security Operations Centre
+
+About the role:
+Our Security Operations Centre protects the company's networks and cloud infrastructure 24x7. As a Security Analyst you will detect, investigate and respond to threats.
+
+Responsibilities:
+- Monitor security alerts in our SIEM (Splunk) and triage suspicious activity
+- Lead incident response for phishing, malware and intrusion incidents
+- Perform vulnerability assessment using tools like Nessus and track remediation
+- Analyse network traffic with Wireshark to investigate anomalies
+- Maintain firewall and IDS/IPS rules and contribute to threat hunting using MITRE ATT&CK
+
+Requirements:
+- 1+ years of experience in a SOC or security operations role
+- Strong understanding of network security, TCP/IP, DNS and firewalls
+- Hands-on experience with a SIEM such as Splunk or QRadar
+- Knowledge of incident response procedures
+- Scripting in Python or Bash for automation
+- Familiarity with Linux
+
+Nice to have:
+- Certifications like CompTIA Security+, CEH or CCNA
+- Experience with penetration testing tools such as Burp Suite or Metasploit
+- Knowledge of compliance frameworks such as ISO 27001 or NIST

@@ -1,0 +1,24 @@
+KAVYA REDDY
+Frontend Engineer | Bengaluru
+
+SUMMARY
+Frontend engineer with 5 years of experience building responsive, high-performance web applications with React.
+
+EXPERIENCE
+Frontend Engineer, Cartly (Feb 2023 - Present)
+- Built a reusable component library in React and TypeScript used across 6 product teams
+- Managed complex checkout state with Redux Toolkit and integrated REST APIs
+- Converted Figma designs into responsive, accessible pages with HTML5, CSS3 and Tailwind
+- Improved Lighthouse performance score from 62 to 95 through code splitting and lazy loading
+- Wrote unit tests with Jest and React Testing Library
+
+UI Developer, PixelWorks (Jul 2021 - Jan 2023)
+- Developed marketing pages with Next.js and server-side rendering
+- Maintained JavaScript (ES6) widgets and fixed cross-browser CSS issues
+- Worked in two-week agile sprints with Git-based code reviews
+
+SKILLS
+JavaScript, TypeScript, React, Redux, Next.js, HTML, CSS, Tailwind, Jest, Git, Figma, Node.js (basic)
+
+EDUCATION
+B.Tech Computer Science, VIT Vellore, 2017 - 2021
